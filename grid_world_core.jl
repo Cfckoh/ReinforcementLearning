@@ -1,3 +1,5 @@
+# Thank you to Doctor Laurent Pagnier for the GridWorld environment code.
+
 # You are not allowed to modify what is in this file.
 # p.s. These functions are not foolproof.
 
